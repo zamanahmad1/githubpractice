@@ -1,0 +1,2 @@
+i am going to commit.
+Now i am study git file status
